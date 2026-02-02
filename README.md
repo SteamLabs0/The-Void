@@ -26,7 +26,7 @@ Welcome to **The Void**, an interactive experience engineered by me! **Steam Lab
 ---
 
 ## LICENSING & TWISTS
-I love how people think, but i do t like stealers sooo... **The Void** is licensed under the **GNU GPLv3**, so NO ONE can steal my work.
+I love how people think, but i don't like stealers sooo... **The Void** is licensed under the **GNU GPLv3**, so NO ONE can steal my work.
 
 ### You CAN:
 * **Put your own twist on it:** Fork this repo and add new apps or colors.
